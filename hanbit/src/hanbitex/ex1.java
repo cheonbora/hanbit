@@ -10,6 +10,7 @@ import java.util.Scanner;
  */
 public class ex1 {	
 	public static void main(String[] args) {
+		
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("***회원가입***");
 		System.out.println("아이디:");
@@ -33,7 +34,7 @@ public class ex1 {
 		System.out.println(birthday);
 		System.out.println(isAdult);
 		System.out.println(height);
-		System.out.println(blood);
+		System.out.println(blood2);
 	}
 }
 	
